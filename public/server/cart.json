@@ -1,0 +1,24 @@
+{
+  "cartItems": [
+    {
+      "id": 3,
+      "src": "3.jpg",
+      "title": "Краска Wallquest, Brownsone MS90102",
+      "price": 5290,
+      "number": 12,
+      "count": 2,
+      "type": "sale"
+    },
+    {
+      "id": 5,
+      "src": "5.jpg",
+      "title": "Краска Wallquest, Brownsone MS90102",
+      "price": 3400,
+      "number": 3,
+      "count": 1,
+      "type": "exclusive"
+    }
+  ],
+  "count": 3,
+  "total": 13980
+}
